@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Harrison Bannister -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    The makers of the HTML boilerplate
 
 # TECHNOLOGY COLOPHON
 
